@@ -4,3 +4,5 @@ para criar o servidor localhost do projeto:
 para rodar o localhost:
 // node .\server.js
 
+exemplo:
+http://localhost:3000/consulta-cep/91240610
